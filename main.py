@@ -1,23 +1,34 @@
 import requests
+import json
+import os
 
-# Remplacez 'VOTRE_CLE_API' par votre clé API réelle
-cle_api = 'VOTRE_CLE_API'
+def request_tgv():
+    cle_api = '2513128f-8f52-459a-97b0-e2c675472568'
 
-# Exemple de requête pour obtenir les horaires d'un train
-url = 'https://api.sncf.com/v1/coverage/sncf/journeys'
-params = {
-    'from': 'Paris',
-    'to': 'Marseille',
-    'datetime': '2023-01-01T08:00:00',
-    'key': cle_api
-}
+    url = 'https://api.sncf.com/v1/coverage/sncf/stop_areas/stop_area:SNCF:87391003/departures'
+    params = {
+        'datetime': '2023-12-05T08:51:10',
+        'key': cle_api
+    }
 
-response = requests.get(url, params=params)
+    response = requests.get(url, params=params)
 
-# Traitez la réponse
-if response.status_code == 200:
-    data = response.json()
-    # Faites quelque chose avec les données
-else:
-    print(f"Erreur de requête : {response.status_code}")
-    print(response.text)
+    if response.status_code == 200:
+        data = response.json()
+        return(data)
+    else:
+        return(f"Erreur de requête : {response.status_code}\n{response.text}")
+    
+
+def save_tgv(nom_fichier):
+
+    fichier = open(nom_fichier+".txt", 'w')
+    fichier.write(str(request_tgv()))
+
+def affichage(nom_fichier):
+    fichier = open(nom_fichier, "r")
+    json_s = fichier.read()
+    donnees = json.loads(json_s)
+    for cle, valeur in donnees.items():
+        print(f"{cle}: {valeur}")
+affichage("22-19_10_12.txt")
