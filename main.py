@@ -24,11 +24,10 @@ def save_tgv(nom_fichier):
 
     fichier = open(nom_fichier+".txt", 'w')
     fichier.write(str(request_tgv()))
-
 def affichage(nom_fichier):
+    
     fichier = open(nom_fichier, "r")
     json_s = fichier.read()
     donnees = json.loads(json_s)
     for cle, valeur in donnees.items():
         print(f"{cle}: {valeur}")
-affichage("22-19_10_12.txt")
