@@ -1,34 +1,17 @@
-import requests
+# -*- coding:utf-8 -*-
+
 import json
-import os
 
-def request_tgv():
-    cle_api = '2513128f-8f52-459a-97b0-e2c675472568'
+with open("j.json", "r") as fichier:
+    data = json.load(fichier)
 
-    url = 'https://api.sncf.com/v1/coverage/sncf/stop_areas/stop_area:SNCF:87391003/departures'
-    params = {
-        'datetime': '2023-12-05T08:51:10',
-        'key': cle_api
-    }
+json_data = json.dumps(data, indent=2)  
 
-    response = requests.get(url, params=params)
+parsed_data = json.loads(json_data)
 
-    if response.status_code == 200:
-        data = response.json()
-        return(json.dumps(data, indent=2))
-    else:
-        return(f"Erreur de requête : {response.status_code}\n{response.text}")
-    
 
-def save_tgv(nom_fichier):
 
-    fichier = open(nom_fichier+".txt", 'w')
-    fichier.write(str(request_tgv()))
-save_tgv("22-19_10_12")    
-def affichage(nom_fichier):
-    
-    fichier = open(nom_fichier, "r")
-    json_s = fichier.read()
-    donnees = json.loads(json_s)
-    for cle, valeur in donnees.items():
-        print(f"{cle}: {valeur}")
+fichier = open("result.txt", "w")
+
+for gare in parsed_data:
+    fichier.write(str(gare['nom_gare'])+ ": " + str(gare["total_voyageurs_2018"])+"\n")
