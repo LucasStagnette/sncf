@@ -15,7 +15,7 @@ def request_tgv():
 
     if response.status_code == 200:
         data = response.json()
-        return(data)
+        return(json.dumps(data, indent=2))
     else:
         return(f"Erreur de requête : {response.status_code}\n{response.text}")
     
@@ -24,6 +24,7 @@ def save_tgv(nom_fichier):
 
     fichier = open(nom_fichier+".txt", 'w')
     fichier.write(str(request_tgv()))
+save_tgv("22-19_10_12")    
 def affichage(nom_fichier):
     
     fichier = open(nom_fichier, "r")
