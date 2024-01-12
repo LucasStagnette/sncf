@@ -28,7 +28,6 @@ tonne = [entry['tonnes']for entry in data]
 
 voyageurs = [entry['voyageurs']for entry in data]
 
-
 annee = [int(i) for i in annee2]
 
 # Affichage graphique des valeurs 
