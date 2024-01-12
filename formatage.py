@@ -1,21 +1,27 @@
 import json
 
-def formater_json(nom_fichier):
+def formatage(nomFichier):
+    '''
+    Fonction qui prend un entrée un fichier JSON et qui le
+    met en page'''
+    # on regarde si il n'y a pas d'erreur
     try:
-        # Chargement du fichier JSON
-        with open(nom_fichier, 'r') as fichier:
-            donnees = json.load(fichier)
+        
+        with open(nomFichier, 'r') as fichier:
+            donnee = json.load(fichier)
 
-        # Mise en forme du JSON
-        json_formate = json.dumps(donnees, indent=4, sort_keys=True)
+        # on met en page le json
+        donneesFinal = json.dumps(donnee, indent=4, sort_keys=True)
 
-        # Écriture du fichier JSON
-        with open(nom_fichier, 'w') as fichier:
-            fichier.write(json_formate)
+        # on écrit le résultat
+        with open(nomFichier, 'w') as fichier:
+            fichier.write(donneesFinal)
 
-        print(f"Le fichier JSON a été correctement formatté et enregistré dans {nom_fichier}")
+        print(f"Le fichier JSON mis en page est enregistré à ce nom : {nomFichier}")
 
+    # sinon on regarde si le fichier est trouvé ou non
     except FileNotFoundError:
-        print(f"Le fichier {nom_fichier} n'a pas été trouvé.")
+        print(f"Le fichier {nomFichier} n'a pas été trouvé.")
+    # ou que le fichier a un problème en json
     except json.JSONDecodeError as e:
-        print(f"Erreur de décodage JSON : {e}")
+        print(f"Erreur de JSON{e}")

@@ -3,7 +3,6 @@
 
 import matplotlib.pyplot as plt
 import json
-import numpy as np
 
 # Définition des valeurs choisi pour l'axe X
 an = [
@@ -16,13 +15,9 @@ an = [
 plt.xlim(1840,2020)
 
 # Ouverture du fichier de data
-fichier = open("trafic.json", "r")
+fichier = open("data/trafic.json", "r")
 
 data = json.load(fichier)
-
-json_data = json.dumps(data,indent=2)
-
-data = json.loads(json_data)
 
 data = sorted(data, key=lambda x: x['annee'])
 
@@ -33,25 +28,19 @@ tonne = [entry['tonnes']for entry in data]
 
 voyageurs = [entry['voyageurs']for entry in data]
 
-annee = []
 
-# Passage de annee liste de str en liste de int
-for i in annee2 :
-    annee.append(int(i))
+annee = [int(i) for i in annee2]
 
 # Affichage graphique des valeurs 
 plt.plot(annee,tonne, color='brown', label='tonne')
 
-plt.plot(annee,
-voyageurs, 
-color='green', 
-label='voyageurs')
+plt.plot(annee,voyageurs, color='green', label='voyageurs')
 
 plt.xticks(an,labels=an)
 
 plt.legend(['voyageurs (Millions)','Marchandises (tonnes)'])
 
-plt.title('Courbes des marchandises de la sncf depuis 1841')
+plt.title('Courbes des voyageurs et marchandises de la sncf depuis 1841')
 
 plt.xlabel('Années')
 
@@ -59,5 +48,5 @@ plt.ylabel('Voyageurs (Millions) / marchandises (Tonnes)')
 
 plt.show()
 
-with open("data_voy_march.json", 'w') as fichier:
+with open("result/data_voy_march.json", 'w') as fichier:
     json.dump(data,fichier, indent=2)

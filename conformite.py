@@ -18,23 +18,52 @@ def calculer_pourcentage_non_conformite():
         json.dump(non_conformites_par_gare, fichier_resultat, indent=2)
 
 
-def voyageur_conformite_inferieur_60():
-    # fonction qui regarde quelles gares ont un taux de conformite inferieur à 60% et le nombre de voyageurs qui l'a visite chaque annee
-    with open('result/conformite.json', 'r') as conformite_file:
-        taux_conformite_data = json.load(conformite_file)
+def conf_inf_60():
+    '''Fonction qui garde toutes les gares qui ont un taux de conformité
+    inférieur à 60%, et affiche le résultat total de personnes qui sont
+    passés ici'''
+    with open('result/conformite.json', 'r') as ficher:
+        donnees = json.load(ficher)
 
-    with open('result/frequentation2022.json', 'r') as frequentation_file:
-        frequentation_data = json.load(frequentation_file)
+    with open('result/frequentation2022.json', 'r') as fichierFrequentation:
+        frequentation = json.load(fichierFrequentation)
 
-    total_voyageurs_2022 = 0
+    garesInf60 = {gare: taux for gare, taux in donnees.items() if taux < 60}
 
-    gares_inferieur_60 = [gare for gare, taux in taux_conformite_data.items() if taux < 60]
+    garesInf60triee = dict(sorted(garesInf60.items()))
 
-    for gare_info in frequentation_data:
-        if gare_info["nom_gare"] in gares_inferieur_60:
-            # Ajouter le nombre de voyageurs en 2022
-            total_voyageurs_2022 += gare_info["total_voyageurs_2022"]
+    resultat = [{"nom_gare": gare, "taux_conformite": taux} for gare, taux in garesInf60triee.items()]
 
-    print("Le nombre de voyageurs transportés qui ont accès à des gares avec un taux de conformité inférieur à 60% est de :", total_voyageurs_2022, "sur 1244000 de voyageurs.")
+    with open('result/gares_inferieur_60.json', 'w') as fichierFinal:
+        json.dump(resultat, fichierFinal, indent=2)
 
-voyageur_conformite_inferieur_60()
+    total_voyageurs_2022 = sum(gare_info["total_voyageurs_2022"] for gare_info in frequentation if gare_info["nom_gare"] in garesInf60)
+    total_frequentation = 2906990820
+    pourcentage = total_voyageurs_2022/total_frequentation*100
+    print(f"Le nombre de personnes qui ont été dans des gares avec un taux de conformité inférieur à 60% est de : {total_voyageurs_2022} sur 2906990820.")
+    print(f"Ce qui represente {pourcentage:.3f}%.")
+
+def conf_inf_80():
+    '''Fonction qui garde toutes les gares qui ont un taux de conformité
+    inférieur à 80%, et affiche le résultat total de personnes qui sont
+    passés ici'''
+    with open('result/conformite.json', 'r') as ficher:
+        donnees = json.load(ficher)
+
+    with open('result/frequentation2022.json', 'r') as fichierFrequentation:
+        frequentation = json.load(fichierFrequentation)
+
+    garesInf80 = {gare: taux for gare, taux in donnees.items() if taux < 80}
+
+    garesInf80triee = dict(sorted(garesInf80.items()))
+
+    resultat = [{"nom_gare": gare, "taux_conformite": taux} for gare, taux in garesInf80triee.items()]
+
+    with open('result/gares_inferieur_80.json', 'w') as fichierFinal:
+        json.dump(resultat, fichierFinal, indent=2)
+
+    total_voyageurs_2022 = sum(gare_info["total_voyageurs_2022"] for gare_info in frequentation if gare_info["nom_gare"] in garesInf80)
+    total_frequentation = 2906990820
+    pourcentage = total_voyageurs_2022/total_frequentation*100
+    print(f"Le nombre de personnes qui ont été dans des gares avec un taux de conformité inférieur à 80% est de : {total_voyageurs_2022} sur 2906990820.")
+    print(f"Ce qui represente {pourcentage:.3f}%.")

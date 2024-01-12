@@ -1,0 +1,527 @@
+[
+    {
+        "date": "2015-01",
+        "ponctualite_origine": 85.28053799,
+        "regularite_composite": 91.62735849
+    },
+    {
+        "date": "2015-02",
+        "ponctualite_origine": 84.24818395,
+        "regularite_composite": 90.32565226
+    },
+    {
+        "date": "2015-03",
+        "ponctualite_origine": 87.45324889,
+        "regularite_composite": 93.42179437
+    },
+    {
+        "date": "2015-04",
+        "ponctualite_origine": 85.34217507,
+        "regularite_composite": 90.80117291
+    },
+    {
+        "date": "2015-05",
+        "ponctualite_origine": 85.04879495,
+        "regularite_composite": 91.37351019
+    },
+    {
+        "date": "2015-06",
+        "ponctualite_origine": 82.61288252,
+        "regularite_composite": 87.69708552
+    },
+    {
+        "date": "2015-07",
+        "ponctualite_origine": 79.81940586,
+        "regularite_composite": 84.8871536
+    },
+    {
+        "date": "2015-08",
+        "ponctualite_origine": 82.23483195,
+        "regularite_composite": 89.10212807
+    },
+    {
+        "date": "2015-09",
+        "ponctualite_origine": 84.63810137,
+        "regularite_composite": 89.54580299
+    },
+    {
+        "date": "2015-10",
+        "ponctualite_origine": 85.12431301,
+        "regularite_composite": 91.01391093
+    },
+    {
+        "date": "2015-11",
+        "ponctualite_origine": 85.5465368,
+        "regularite_composite": 90.93459752
+    },
+    {
+        "date": "2015-12",
+        "ponctualite_origine": 85.69521572,
+        "regularite_composite": 93.66599943
+    },
+    {
+        "date": "2016-01",
+        "ponctualite_origine": 87.10609384,
+        "regularite_composite": 92.67430755
+    },
+    {
+        "date": "2016-02",
+        "ponctualite_origine": 86.59545912,
+        "regularite_composite": 92.33344995
+    },
+    {
+        "date": "2016-03",
+        "ponctualite_origine": 85.75787294,
+        "regularite_composite": 91.62976301
+    },
+    {
+        "date": "2016-04",
+        "ponctualite_origine": 84.25280899,
+        "regularite_composite": 92.12507529
+    },
+    {
+        "date": "2016-05",
+        "ponctualite_origine": 83.89974032,
+        "regularite_composite": 89.7803199
+    },
+    {
+        "date": "2016-06",
+        "ponctualite_origine": 78.11773819,
+        "regularite_composite": 85.09926131
+    },
+    {
+        "date": "2016-07",
+        "ponctualite_origine": 80.58290445,
+        "regularite_composite": 87.33201581
+    },
+    {
+        "date": "2016-08",
+        "ponctualite_origine": 83.55114917,
+        "regularite_composite": 89.92306155
+    },
+    {
+        "date": "2016-09",
+        "ponctualite_origine": 83.81976161,
+        "regularite_composite": 89.07758578
+    },
+    {
+        "date": "2016-10",
+        "ponctualite_origine": 82.79676955,
+        "regularite_composite": 87.86464984
+    },
+    {
+        "date": "2016-11",
+        "ponctualite_origine": 82.60001141,
+        "regularite_composite": 86.22490367
+    },
+    {
+        "date": "2016-12",
+        "ponctualite_origine": 83.65454041,
+        "regularite_composite": 89.76953067
+    },
+    {
+        "date": "2017-01",
+        "ponctualite_origine": 83.17150338,
+        "regularite_composite": 89.66624501
+    },
+    {
+        "date": "2017-02",
+        "ponctualite_origine": 85.41468631,
+        "regularite_composite": 91.84434968
+    },
+    {
+        "date": "2017-03",
+        "ponctualite_origine": 85.12143494,
+        "regularite_composite": 91.50611659
+    },
+    {
+        "date": "2017-04",
+        "ponctualite_origine": 83.76683163,
+        "regularite_composite": 89.73424995
+    },
+    {
+        "date": "2017-05",
+        "ponctualite_origine": 83.4941708,
+        "regularite_composite": 89.89189458
+    },
+    {
+        "date": "2017-06",
+        "ponctualite_origine": 78.65289678,
+        "regularite_composite": 85.39496308
+    },
+    {
+        "date": "2017-07",
+        "ponctualite_origine": 78.95786035,
+        "regularite_composite": 85.6090735
+    },
+    {
+        "date": "2017-08",
+        "ponctualite_origine": 80.99534987,
+        "regularite_composite": 87.52348927
+    },
+    {
+        "date": "2017-09",
+        "ponctualite_origine": 80.73233131,
+        "regularite_composite": 88.78889421
+    },
+    {
+        "date": "2017-10",
+        "ponctualite_origine": 82.20942408,
+        "regularite_composite": 90.20271837
+    },
+    {
+        "date": "2017-11",
+        "ponctualite_origine": 82.2616408,
+        "regularite_composite": 88.17894434
+    },
+    {
+        "date": "2017-12",
+        "ponctualite_origine": 78.52552186,
+        "regularite_composite": 86.54036944
+    },
+    {
+        "date": "2018-01",
+        "ponctualite_origine": 83.8,
+        "regularite_composite": 90.0
+    },
+    {
+        "date": "2018-02",
+        "ponctualite_origine": 81.6,
+        "regularite_composite": 88.5
+    },
+    {
+        "date": "2018-03",
+        "ponctualite_origine": 83.1,
+        "regularite_composite": 90.6
+    },
+    {
+        "date": "2018-04",
+        "ponctualite_origine": 79.8,
+        "regularite_composite": 88.1
+    },
+    {
+        "date": "2018-05",
+        "ponctualite_origine": 79.3,
+        "regularite_composite": 88.2
+    },
+    {
+        "date": "2018-06",
+        "ponctualite_origine": 77.6,
+        "regularite_composite": 84.5
+    },
+    {
+        "date": "2018-07",
+        "ponctualite_origine": 75.4,
+        "regularite_composite": 81.7
+    },
+    {
+        "date": "2018-08",
+        "ponctualite_origine": 78.7,
+        "regularite_composite": 87.4
+    },
+    {
+        "date": "2018-09",
+        "ponctualite_origine": 81.7,
+        "regularite_composite": 89.1
+    },
+    {
+        "date": "2018-10",
+        "ponctualite_origine": 82.7,
+        "regularite_composite": 88.4
+    },
+    {
+        "date": "2018-11",
+        "ponctualite_origine": 82.6,
+        "regularite_composite": 88.1
+    },
+    {
+        "date": "2018-12",
+        "ponctualite_origine": 81.9,
+        "regularite_composite": 88.3
+    },
+    {
+        "date": "2019-01",
+        "ponctualite_origine": 85.2,
+        "regularite_composite": 91.4
+    },
+    {
+        "date": "2019-02",
+        "ponctualite_origine": 84.9,
+        "regularite_composite": 91.1
+    },
+    {
+        "date": "2019-03",
+        "ponctualite_origine": 86.7,
+        "regularite_composite": 91.8
+    },
+    {
+        "date": "2019-04",
+        "ponctualite_origine": 87.2,
+        "regularite_composite": 91.7
+    },
+    {
+        "date": "2019-05",
+        "ponctualite_origine": 88.9,
+        "regularite_composite": 92.1
+    },
+    {
+        "date": "2019-06",
+        "ponctualite_origine": 83.2,
+        "regularite_composite": 87.3
+    },
+    {
+        "date": "2019-07",
+        "ponctualite_origine": 83.3,
+        "regularite_composite": 88.4
+    },
+    {
+        "date": "2019-08",
+        "ponctualite_origine": 85.6,
+        "regularite_composite": 90.7
+    },
+    {
+        "date": "2019-09",
+        "ponctualite_origine": 86.32730571,
+        "regularite_composite": 91.37290348
+    },
+    {
+        "date": "2019-10",
+        "ponctualite_origine": 85.10437074,
+        "regularite_composite": 89.44335531
+    },
+    {
+        "date": "2019-11",
+        "ponctualite_origine": 83.52589045,
+        "regularite_composite": 89.00498568
+    },
+    {
+        "date": "2019-12",
+        "ponctualite_origine": 81.32854578,
+        "regularite_composite": 85.87403012
+    },
+    {
+        "date": "2020-01",
+        "ponctualite_origine": 84.77777778,
+        "regularite_composite": 89.62428754
+    },
+    {
+        "date": "2020-02",
+        "ponctualite_origine": 85.2803873,
+        "regularite_composite": 90.37654763
+    },
+    {
+        "date": "2020-03",
+        "ponctualite_origine": 84.93354401,
+        "regularite_composite": 86.93253072
+    },
+    {
+        "date": "2020-04",
+        "ponctualite_origine": 73.51712615,
+        "regularite_composite": 85.22088353
+    },
+    {
+        "date": "2020-05",
+        "ponctualite_origine": 88.63097255,
+        "regularite_composite": 92.1221374
+    },
+    {
+        "date": "2020-06",
+        "ponctualite_origine": 90.17367048,
+        "regularite_composite": 93.20715374
+    },
+    {
+        "date": "2020-07",
+        "ponctualite_origine": 86.96598101,
+        "regularite_composite": 90.75866189
+    },
+    {
+        "date": "2020-08",
+        "ponctualite_origine": 87.29827226,
+        "regularite_composite": 91.05486199
+    },
+    {
+        "date": "2020-09",
+        "ponctualite_origine": 89.31814027,
+        "regularite_composite": 92.50287089
+    },
+    {
+        "date": "2020-10",
+        "ponctualite_origine": 88.62307283,
+        "regularite_composite": 91.94295337
+    },
+    {
+        "date": "2020-11",
+        "ponctualite_origine": 90.37071945,
+        "regularite_composite": 93.59064657
+    },
+    {
+        "date": "2020-12",
+        "ponctualite_origine": 88.80967639,
+        "regularite_composite": 92.82958433
+    },
+    {
+        "date": "2021-01",
+        "ponctualite_origine": 87.31641369,
+        "regularite_composite": 89.07392614
+    },
+    {
+        "date": "2021-02",
+        "ponctualite_origine": 87.84667263,
+        "regularite_composite": 90.19337967
+    },
+    {
+        "date": "2021-03",
+        "ponctualite_origine": 90.73214042,
+        "regularite_composite": 94.26990848
+    },
+    {
+        "date": "2021-04",
+        "ponctualite_origine": 89.69378654,
+        "regularite_composite": 94.55950847
+    },
+    {
+        "date": "2021-05",
+        "ponctualite_origine": 88.67864424,
+        "regularite_composite": 92.13175331
+    },
+    {
+        "date": "2021-06",
+        "ponctualite_origine": 86.69826779,
+        "regularite_composite": 89.83497191
+    },
+    {
+        "date": "2021-07",
+        "ponctualite_origine": 83.570484,
+        "regularite_composite": 89.92330071
+    },
+    {
+        "date": "2021-08",
+        "ponctualite_origine": 85.81034936,
+        "regularite_composite": 91.61019175
+    },
+    {
+        "date": "2021-09",
+        "ponctualite_origine": 85.67340067,
+        "regularite_composite": 90.02805836
+    },
+    {
+        "date": "2021-10",
+        "ponctualite_origine": 84.83357928,
+        "regularite_composite": 88.53910477
+    },
+    {
+        "date": "2021-11",
+        "ponctualite_origine": 84.30342978,
+        "regularite_composite": 87.3421964
+    },
+    {
+        "date": "2021-12",
+        "ponctualite_origine": 85.55607794,
+        "regularite_composite": 89.70380818
+    },
+    {
+        "date": "2022-01",
+        "ponctualite_origine": 88.22565295548272,
+        "regularite_composite": 92.50290789891083
+    },
+    {
+        "date": "2022-02",
+        "ponctualite_origine": 85.80253975517675,
+        "regularite_composite": 92.3807344697403
+    },
+    {
+        "date": "2022-03",
+        "ponctualite_origine": 83.8685208596713,
+        "regularite_composite": 90.81163084702908
+    },
+    {
+        "date": "2022-04",
+        "ponctualite_origine": 82.4672367555533,
+        "regularite_composite": 88.64038860496888
+    },
+    {
+        "date": "2022-05",
+        "ponctualite_origine": 81.4732363708321,
+        "regularite_composite": 88.69100623330364
+    },
+    {
+        "date": "2022-06",
+        "ponctualite_origine": 78.55910705225774,
+        "regularite_composite": 83.6681887366819
+    },
+    {
+        "date": "2022-07",
+        "ponctualite_origine": 74.26187419768935,
+        "regularite_composite": 79.70771205687764
+    },
+    {
+        "date": "2022-08",
+        "ponctualite_origine": 79.08760200570248,
+        "regularite_composite": 85.91583915052601
+    },
+    {
+        "date": "2022-09",
+        "ponctualite_origine": 81.41858659073259,
+        "regularite_composite": 89.6246440590215
+    },
+    {
+        "date": "2022-10",
+        "ponctualite_origine": 80.44464383629929,
+        "regularite_composite": 87.9018992074174
+    },
+    {
+        "date": "2022-11",
+        "ponctualite_origine": 81.88816855753646,
+        "regularite_composite": 89.11568071312804
+    },
+    {
+        "date": "2022-12",
+        "ponctualite_origine": 78.27715355805243,
+        "regularite_composite": 86.51685393258427
+    },
+    {
+        "date": "2023-01",
+        "ponctualite_origine": 82.38815212343258,
+        "regularite_composite": 89.06548325506992
+    },
+    {
+        "date": "2023-02",
+        "ponctualite_origine": 83.00653594771242,
+        "regularite_composite": 90.83840432724814
+    },
+    {
+        "date": "2023-03",
+        "ponctualite_origine": 82.09220985691574,
+        "regularite_composite": 88.69316375198727
+    },
+    {
+        "date": "2023-04",
+        "ponctualite_origine": 81.28602871816372,
+        "regularite_composite": 88.30311288254951
+    },
+    {
+        "date": "2023-05",
+        "ponctualite_origine": 81.59722222222221,
+        "regularite_composite": 89.31159420250452
+    },
+    {
+        "date": "2023-06",
+        "ponctualite_origine": 78.50237916353619,
+        "regularite_composite": 85.05885299326272
+    },
+    {
+        "date": "2023-07",
+        "ponctualite_origine": 78.25440119018101,
+        "regularite_composite": 85.99553681999205
+    },
+    {
+        "date": "2023-08",
+        "ponctualite_origine": 79.86434300425785,
+        "regularite_composite": 86.98881077595603
+    },
+    {
+        "date": "2023-09",
+        "ponctualite_origine": 80.48612816106065,
+        "regularite_composite": 87.03658237166657
+    }
+]

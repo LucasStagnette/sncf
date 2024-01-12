@@ -1,0 +1,1255 @@
+[
+  {
+    "annee": "1841",
+    "tonnes": 1.01,
+    "tonnes_km": 0.037,
+    "voyageurs": 6.33,
+    "voyageurs_km": 0.112
+  },
+  {
+    "annee": "1842",
+    "tonnes": 1.2,
+    "tonnes_km": 0.044,
+    "voyageurs": 6.16,
+    "voyageurs_km": 0.117
+  },
+  {
+    "annee": "1843",
+    "tonnes": 1.49,
+    "tonnes_km": 0.054,
+    "voyageurs": 7.3,
+    "voyageurs_km": 0.185
+  },
+  {
+    "annee": "1844",
+    "tonnes": 1.87,
+    "tonnes_km": 0.083,
+    "voyageurs": 8.08,
+    "voyageurs_km": 0.232
+  },
+  {
+    "annee": "1845",
+    "tonnes": 2.21,
+    "tonnes_km": 0.102,
+    "voyageurs": 8.8,
+    "voyageurs_km": 0.246
+  },
+  {
+    "annee": "1846",
+    "tonnes": 2.41,
+    "tonnes_km": 0.126,
+    "voyageurs": 10.4,
+    "voyageurs_km": 0.327
+  },
+  {
+    "annee": "1847",
+    "tonnes": 3.49,
+    "tonnes_km": 0.248,
+    "voyageurs": 12.7,
+    "voyageurs_km": 0.426
+  },
+  {
+    "annee": "1848",
+    "tonnes": 2.83,
+    "tonnes_km": 0.234,
+    "voyageurs": 11.8,
+    "voyageurs_km": 0.432
+  },
+  {
+    "annee": "1849",
+    "tonnes": 3.28,
+    "tonnes_km": 0.308,
+    "voyageurs": 14.7,
+    "voyageurs_km": 0.554
+  },
+  {
+    "annee": "1850",
+    "tonnes": 4.1,
+    "tonnes_km": 0.423,
+    "voyageurs": 18.5,
+    "voyageurs_km": 0.738
+  },
+  {
+    "annee": "1851",
+    "tonnes": 4.34,
+    "tonnes_km": 0.488,
+    "voyageurs": 19.6,
+    "voyageurs_km": 0.797
+  },
+  {
+    "annee": "1852",
+    "tonnes": 5.01,
+    "tonnes_km": 0.621,
+    "voyageurs": 22.3,
+    "voyageurs_km": 0.988
+  },
+  {
+    "annee": "1853",
+    "tonnes": 6.55,
+    "tonnes_km": 0.84,
+    "voyageurs": 24.3,
+    "voyageurs_km": 1.15
+  },
+  {
+    "annee": "1854",
+    "tonnes": 8.06,
+    "tonnes_km": 1.16,
+    "voyageurs": 27.7,
+    "voyageurs_km": 1.37
+  },
+  {
+    "annee": "1855",
+    "tonnes": 9.58,
+    "tonnes_km": 1.53,
+    "voyageurs": 32.4,
+    "voyageurs_km": 1.82
+  },
+  {
+    "annee": "1856",
+    "tonnes": 11.4,
+    "tonnes_km": 1.87,
+    "voyageurs": 35.8,
+    "voyageurs_km": 1.84
+  },
+  {
+    "annee": "1857",
+    "tonnes": 13.1,
+    "tonnes_km": 2.15,
+    "voyageurs": 41.0,
+    "voyageurs_km": 1.99
+  },
+  {
+    "annee": "1858",
+    "tonnes": 15.3,
+    "tonnes_km": 2.4,
+    "voyageurs": 44.7,
+    "voyageurs_km": 2.1
+  },
+  {
+    "annee": "1859",
+    "tonnes": 17.0,
+    "tonnes_km": 2.76,
+    "voyageurs": 51.7,
+    "voyageurs_km": 2.7
+  },
+  {
+    "annee": "1860",
+    "tonnes": 19.6,
+    "tonnes_km": 3.14,
+    "voyageurs": 55.8,
+    "voyageurs_km": 2.52
+  },
+  {
+    "annee": "1861",
+    "tonnes": 23.5,
+    "tonnes_km": 3.79,
+    "voyageurs": 61.1,
+    "voyageurs_km": 2.69
+  },
+  {
+    "annee": "1862",
+    "tonnes": 22.3,
+    "tonnes_km": 3.86,
+    "voyageurs": 64.2,
+    "voyageurs_km": 2.85
+  },
+  {
+    "annee": "1863",
+    "tonnes": 23.4,
+    "tonnes_km": 4.06,
+    "voyageurs": 69.3,
+    "voyageurs_km": 3.0
+  },
+  {
+    "annee": "1864",
+    "tonnes": 24.9,
+    "tonnes_km": 4.6,
+    "voyageurs": 74.4,
+    "voyageurs_km": 3.16
+  },
+  {
+    "annee": "1865",
+    "tonnes": 27.0,
+    "tonnes_km": 5.12,
+    "voyageurs": 80.5,
+    "voyageurs_km": 3.33
+  },
+  {
+    "annee": "1866",
+    "tonnes": 28.8,
+    "tonnes_km": 5.78,
+    "voyageurs": 86.2,
+    "voyageurs_km": 3.4
+  },
+  {
+    "annee": "1867",
+    "tonnes": 29.3,
+    "tonnes_km": 5.81,
+    "voyageurs": 100.0,
+    "voyageurs_km": 4.3
+  },
+  {
+    "annee": "1868",
+    "tonnes": 31.4,
+    "tonnes_km": 6.2,
+    "voyageurs": 101.0,
+    "voyageurs_km": 3.9
+  },
+  {
+    "annee": "1869",
+    "tonnes": 32.7,
+    "tonnes_km": 6.22,
+    "voyageurs": 109.0,
+    "voyageurs_km": 4.1
+  },
+  {
+    "annee": "1870",
+    "tonnes": 27.2,
+    "tonnes_km": 5.06,
+    "voyageurs": 100.0,
+    "voyageurs_km": 4.26
+  },
+  {
+    "annee": "1871",
+    "tonnes": 27.8,
+    "tonnes_km": 5.53,
+    "voyageurs": 94.1,
+    "voyageurs_km": 4.58
+  },
+  {
+    "annee": "1872",
+    "tonnes": 38.8,
+    "tonnes_km": 7.58,
+    "voyageurs": 110.0,
+    "voyageurs_km": 4.27
+  },
+  {
+    "annee": "1873",
+    "tonnes": 40.7,
+    "tonnes_km": 8.07,
+    "voyageurs": 113.0,
+    "voyageurs_km": 4.33
+  },
+  {
+    "annee": "1874",
+    "tonnes": 39.4,
+    "tonnes_km": 7.75,
+    "voyageurs": 118.0,
+    "voyageurs_km": 4.43
+  },
+  {
+    "annee": "1875",
+    "tonnes": 40.8,
+    "tonnes_km": 8.03,
+    "voyageurs": 127.0,
+    "voyageurs_km": 4.76
+  },
+  {
+    "annee": "1876",
+    "tonnes": 42.3,
+    "tonnes_km": 8.21,
+    "voyageurs": 133.0,
+    "voyageurs_km": 4.94
+  },
+  {
+    "annee": "1877",
+    "tonnes": 41.2,
+    "tonnes_km": 8.06,
+    "voyageurs": 134.0,
+    "voyageurs_km": 4.85
+  },
+  {
+    "annee": "1878",
+    "tonnes": 41.7,
+    "tonnes_km": 8.26,
+    "voyageurs": 148.0,
+    "voyageurs_km": 5.75
+  },
+  {
+    "annee": "1879",
+    "tonnes": 45.9,
+    "tonnes_km": 8.87,
+    "voyageurs": 146.0,
+    "voyageurs_km": 5.23
+  },
+  {
+    "annee": "1880",
+    "tonnes": 53.4,
+    "tonnes_km": 10.2,
+    "voyageurs": 160.0,
+    "voyageurs_km": 5.84
+  },
+  {
+    "annee": "1881",
+    "tonnes": 56.2,
+    "tonnes_km": 10.6,
+    "voyageurs": 174.0,
+    "voyageurs_km": 6.29
+  },
+  {
+    "annee": "1882",
+    "tonnes": 58.9,
+    "tonnes_km": 10.7,
+    "voyageurs": 89.0,
+    "voyageurs_km": 6.73
+  },
+  {
+    "annee": "1883",
+    "tonnes": 59.1,
+    "tonnes_km": 10.9,
+    "voyageurs": 201.0,
+    "voyageurs_km": 7.01
+  },
+  {
+    "annee": "1884",
+    "tonnes": 53.1,
+    "tonnes_km": 10.2,
+    "voyageurs": 206.0,
+    "voyageurs_km": 6.85
+  },
+  {
+    "annee": "1885",
+    "tonnes": 49.4,
+    "tonnes_km": 9.48,
+    "voyageurs": 209.0,
+    "voyageurs_km": 7.0
+  },
+  {
+    "annee": "1886",
+    "tonnes": 48.3,
+    "tonnes_km": 9.09,
+    "voyageurs": 211.0,
+    "voyageurs_km": 7.11
+  },
+  {
+    "annee": "1887",
+    "tonnes": 50.8,
+    "tonnes_km": 9.67,
+    "voyageurs": 211.0,
+    "voyageurs_km": 7.18
+  },
+  {
+    "annee": "1888",
+    "tonnes": 53.6,
+    "tonnes_km": 10.2,
+    "voyageurs": 217.0,
+    "voyageurs_km": 7.31
+  },
+  {
+    "annee": "1889",
+    "tonnes": 56.6,
+    "tonnes_km": 10.9,
+    "voyageurs": 236.0,
+    "voyageurs_km": 8.59
+  },
+  {
+    "annee": "1890",
+    "tonnes": 60.6,
+    "tonnes_km": 11.6,
+    "voyageurs": 234.0,
+    "voyageurs_km": 7.9
+  },
+  {
+    "annee": "1891",
+    "tonnes": 63.1,
+    "tonnes_km": 11.8,
+    "voyageurs": 248.0,
+    "voyageurs_km": 8.24
+  },
+  {
+    "annee": "1892",
+    "tonnes": 62.7,
+    "tonnes_km": 11.7,
+    "voyageurs": 279.0,
+    "voyageurs_km": 9.19
+  },
+  {
+    "annee": "1893",
+    "tonnes": 63.5,
+    "tonnes_km": 11.9,
+    "voyageurs": 308.0,
+    "voyageurs_km": 9.95
+  },
+  {
+    "annee": "1894",
+    "tonnes": 65.2,
+    "tonnes_km": 12.1,
+    "voyageurs": 326.0,
+    "voyageurs_km": 10.3
+  },
+  {
+    "annee": "1895",
+    "tonnes": 66.9,
+    "tonnes_km": 12.5,
+    "voyageurs": 338.0,
+    "voyageurs_km": 10.6
+  },
+  {
+    "annee": "1896",
+    "tonnes": 68.8,
+    "tonnes_km": 12.9,
+    "voyageurs": 352.0,
+    "voyageurs_km": 11.1
+  },
+  {
+    "annee": "1897",
+    "tonnes": 71.6,
+    "tonnes_km": 13.4,
+    "voyageurs": 364.0,
+    "voyageurs_km": 11.4
+  },
+  {
+    "annee": "1898",
+    "tonnes": 75.6,
+    "tonnes_km": 14.5,
+    "voyageurs": 375.0,
+    "voyageurs_km": 11.7
+  },
+  {
+    "annee": "1899",
+    "tonnes": 79.5,
+    "tonnes_km": 15.4,
+    "voyageurs": 390.0,
+    "voyageurs_km": 12.3
+  },
+  {
+    "annee": "1900",
+    "tonnes": 83.4,
+    "tonnes_km": 16.0,
+    "voyageurs": 430.0,
+    "voyageurs_km": 14.0
+  },
+  {
+    "annee": "1901",
+    "tonnes": 80.4,
+    "tonnes_km": 15.8,
+    "voyageurs": 406.0,
+    "voyageurs_km": 12.9
+  },
+  {
+    "annee": "1902",
+    "tonnes": 81.0,
+    "tonnes_km": 15.7,
+    "voyageurs": 410.0,
+    "voyageurs_km": 13.1
+  },
+  {
+    "annee": "1903",
+    "tonnes": 85.3,
+    "tonnes_km": 16.1,
+    "voyageurs": 413.0,
+    "voyageurs_km": 13.2
+  },
+  {
+    "annee": "1904",
+    "tonnes": 85.5,
+    "tonnes_km": 16.2,
+    "voyageurs": 420.0,
+    "voyageurs_km": 13.6
+  },
+  {
+    "annee": "1905",
+    "tonnes": 91.0,
+    "tonnes_km": 17.4,
+    "voyageurs": 429.0,
+    "voyageurs_km": 14.1
+  },
+  {
+    "annee": "1906",
+    "tonnes": 95.1,
+    "tonnes_km": 18.2,
+    "voyageurs": 445.0,
+    "voyageurs_km": 14.7
+  },
+  {
+    "annee": "1907",
+    "tonnes": 102.0,
+    "tonnes_km": 19.3,
+    "voyageurs": 459.0,
+    "voyageurs_km": 15.2
+  },
+  {
+    "annee": "1908",
+    "tonnes": 103.0,
+    "tonnes_km": 20.0,
+    "voyageurs": 464.0,
+    "voyageurs_km": 15.9
+  },
+  {
+    "annee": "1909",
+    "tonnes": 107.0,
+    "tonnes_km": 20.8,
+    "voyageurs": 476.0,
+    "voyageurs_km": 16.2
+  },
+  {
+    "annee": "1910",
+    "tonnes": 113.0,
+    "tonnes_km": 21.5,
+    "voyageurs": 492.0,
+    "voyageurs_km": 16.8
+  },
+  {
+    "annee": "1911",
+    "tonnes": 121.0,
+    "tonnes_km": 22.7,
+    "voyageurs": 494.0,
+    "voyageurs_km": 17.5
+  },
+  {
+    "annee": "1912",
+    "tonnes": 131.0,
+    "tonnes_km": 24.2,
+    "voyageurs": 509.0,
+    "voyageurs_km": 18.1
+  },
+  {
+    "annee": "1913",
+    "tonnes": 136.0,
+    "tonnes_km": 25.2,
+    "voyageurs": 529.0,
+    "voyageurs_km": 19.3
+  },
+  {
+    "annee": "1914",
+    "tonnes": 88.2,
+    "tonnes_km": 17.8,
+    "voyageurs": 355.0,
+    "voyageurs_km": 13.7
+  },
+  {
+    "annee": "1915",
+    "tonnes": 71.5,
+    "tonnes_km": 16.5,
+    "voyageurs": 209.0,
+    "voyageurs_km": 8.8
+  },
+  {
+    "annee": "1916",
+    "tonnes": 79.7,
+    "tonnes_km": 18.9,
+    "voyageurs": 325.0,
+    "voyageurs_km": 10.0
+  },
+  {
+    "annee": "1917",
+    "tonnes": 83.7,
+    "tonnes_km": 20.2,
+    "voyageurs": 352.0,
+    "voyageurs_km": 10.1
+  },
+  {
+    "annee": "1918",
+    "tonnes": 64.7,
+    "tonnes_km": 20.1,
+    "voyageurs": 377.0,
+    "voyageurs_km": 11.9
+  },
+  {
+    "annee": "1919",
+    "tonnes": 77.0,
+    "tonnes_km": 20.7,
+    "voyageurs": 463.0,
+    "voyageurs_km": 20.2
+  },
+  {
+    "annee": "1920",
+    "tonnes": 103.0,
+    "tonnes_km": 25.9,
+    "voyageurs": 500.0,
+    "voyageurs_km": 22.1
+  },
+  {
+    "annee": "1921",
+    "tonnes": 137.0,
+    "tonnes_km": 26.0,
+    "voyageurs": 661.0,
+    "voyageurs_km": 25.7
+  },
+  {
+    "annee": "1922",
+    "tonnes": 157.0,
+    "tonnes_km": 28.6,
+    "voyageurs": 720.0,
+    "voyageurs_km": 27.3
+  },
+  {
+    "annee": "1923",
+    "tonnes": 174.0,
+    "tonnes_km": 33.3,
+    "voyageurs": 767.0,
+    "voyageurs_km": 29.3
+  },
+  {
+    "annee": "1924",
+    "tonnes": 199.0,
+    "tonnes_km": 37.2,
+    "voyageurs": 772.0,
+    "voyageurs_km": 28.4
+  },
+  {
+    "annee": "1925",
+    "tonnes": 195.0,
+    "tonnes_km": 37.1,
+    "voyageurs": 802.0,
+    "voyageurs_km": 29.8
+  },
+  {
+    "annee": "1926",
+    "tonnes": 208.0,
+    "tonnes_km": 40.4,
+    "voyageurs": 777.0,
+    "voyageurs_km": 28.3
+  },
+  {
+    "annee": "1927",
+    "tonnes": 194.0,
+    "tonnes_km": 36.6,
+    "voyageurs": 724.0,
+    "voyageurs_km": 26.0
+  },
+  {
+    "annee": "1928",
+    "tonnes": 208.0,
+    "tonnes_km": 39.2,
+    "voyageurs": 745.0,
+    "voyageurs_km": 27.0
+  },
+  {
+    "annee": "1929",
+    "tonnes": 223.0,
+    "tonnes_km": 41.8,
+    "voyageurs": 765.0,
+    "voyageurs_km": 28.2
+  },
+  {
+    "annee": "1930",
+    "tonnes": 224.0,
+    "tonnes_km": 40.9,
+    "voyageurs": 790.0,
+    "voyageurs_km": 29.2
+  },
+  {
+    "annee": "1931",
+    "tonnes": 193.0,
+    "tonnes_km": 37.1,
+    "voyageurs": 773.0,
+    "voyageurs_km": 29.0
+  },
+  {
+    "annee": "1932",
+    "tonnes": 161.0,
+    "tonnes_km": 31.9,
+    "voyageurs": 705.0,
+    "voyageurs_km": 25.6
+  },
+  {
+    "annee": "1933",
+    "tonnes": 153.0,
+    "tonnes_km": 31.0,
+    "voyageurs": 661.0,
+    "voyageurs_km": 24.7
+  },
+  {
+    "annee": "1934",
+    "tonnes": 148.0,
+    "tonnes_km": 29.7,
+    "voyageurs": 622.0,
+    "voyageurs_km": 23.4
+  },
+  {
+    "annee": "1935",
+    "tonnes": 139.0,
+    "tonnes_km": 27.1,
+    "voyageurs": 582.0,
+    "voyageurs_km": 22.6
+  },
+  {
+    "annee": "1936",
+    "tonnes": 148.0,
+    "tonnes_km": 29.5,
+    "voyageurs": 577.0,
+    "voyageurs_km": 23.3
+  },
+  {
+    "annee": "1937",
+    "tonnes": 157.0,
+    "tonnes_km": 31.8,
+    "voyageurs": 614.0,
+    "voyageurs_km": 27.0
+  },
+  {
+    "annee": "1938",
+    "tonnes": 132.3,
+    "tonnes_km": 26.5,
+    "voyageurs": 540.0,
+    "voyageurs_km": 22.1
+  },
+  {
+    "annee": "1939",
+    "tonnes": 140.3,
+    "tonnes_km": 29.3,
+    "voyageurs": 481.0,
+    "voyageurs_km": 20.5
+  },
+  {
+    "annee": "1940",
+    "tonnes": 101.5,
+    "tonnes_km": 24.0,
+    "voyageurs": 347.0,
+    "voyageurs_km": 17.1
+  },
+  {
+    "annee": "1941",
+    "tonnes": 111.5,
+    "tonnes_km": 28.4,
+    "voyageurs": 454.0,
+    "voyageurs_km": 17.1
+  },
+  {
+    "annee": "1942",
+    "tonnes": 102.8,
+    "tonnes_km": 27.4,
+    "voyageurs": 579.0,
+    "voyageurs_km": 23.2
+  },
+  {
+    "annee": "1943",
+    "tonnes": 94.1,
+    "tonnes_km": 24.0,
+    "voyageurs": 686.0,
+    "voyageurs_km": 28.2
+  },
+  {
+    "annee": "1944",
+    "tonnes": 41.9,
+    "tonnes_km": 9.55,
+    "voyageurs": 433.0,
+    "voyageurs_km": 15.0
+  },
+  {
+    "annee": "1945",
+    "tonnes": 68.9,
+    "tonnes_km": 17.8,
+    "voyageurs": 596.0,
+    "voyageurs_km": 26.1
+  },
+  {
+    "annee": "1946",
+    "tonnes": 125.8,
+    "tonnes_km": 32.3,
+    "voyageurs": 696.0,
+    "voyageurs_km": 31.5
+  },
+  {
+    "annee": "1947",
+    "tonnes": 140.5,
+    "tonnes_km": 37.0,
+    "voyageurs": 649.0,
+    "voyageurs_km": 31.1
+  },
+  {
+    "annee": "1948",
+    "tonnes": 157.9,
+    "tonnes_km": 41.2,
+    "voyageurs": 645.0,
+    "voyageurs_km": 30.6
+  },
+  {
+    "annee": "1949",
+    "tonnes": 160.6,
+    "tonnes_km": 41.0,
+    "voyageurs": 597.0,
+    "voyageurs_km": 29.5
+  },
+  {
+    "annee": "1950",
+    "tonnes": 151.7,
+    "tonnes_km": 38.9,
+    "voyageurs": 546.0,
+    "voyageurs_km": 26.4
+  },
+  {
+    "annee": "1951",
+    "tonnes": 176.7,
+    "tonnes_km": 45.4,
+    "voyageurs": 549.0,
+    "voyageurs_km": 28.1
+  },
+  {
+    "annee": "1952",
+    "tonnes": 173.7,
+    "tonnes_km": 44.0,
+    "voyageurs": 543.0,
+    "voyageurs_km": 28.6
+  },
+  {
+    "annee": "1953",
+    "tonnes": 162.7,
+    "tonnes_km": 40.3,
+    "voyageurs": 496.0,
+    "voyageurs_km": 25.9
+  },
+  {
+    "annee": "1954",
+    "tonnes": 169.2,
+    "tonnes_km": 41.5,
+    "voyageurs": 500.0,
+    "voyageurs_km": 26.6
+  },
+  {
+    "annee": "1955",
+    "tonnes": 191.4,
+    "tonnes_km": 46.8,
+    "voyageurs": 509.0,
+    "voyageurs_km": 27.8
+  },
+  {
+    "annee": "1956",
+    "tonnes": 204.5,
+    "tonnes_km": 50.2,
+    "voyageurs": 526.0,
+    "voyageurs_km": 30.8
+  },
+  {
+    "annee": "1957",
+    "tonnes": 216.8,
+    "tonnes_km": 53.6,
+    "voyageurs": 552.0,
+    "voyageurs_km": 32.6
+  },
+  {
+    "annee": "1958",
+    "tonnes": 211.9,
+    "tonnes_km": 52.9,
+    "voyageurs": 553.0,
+    "voyageurs_km": 32.3
+  },
+  {
+    "annee": "1959",
+    "tonnes": 212.7,
+    "tonnes_km": 53.4,
+    "voyageurs": 568.0,
+    "voyageurs_km": 32.0
+  },
+  {
+    "annee": "1960",
+    "tonnes": 226.7,
+    "tonnes_km": 56.9,
+    "voyageurs": 570.0,
+    "voyageurs_km": 32.0
+  },
+  {
+    "annee": "1961",
+    "tonnes": 229.7,
+    "tonnes_km": 58.8,
+    "voyageurs": 576.0,
+    "voyageurs_km": 33.6
+  },
+  {
+    "annee": "1962",
+    "tonnes": 230.9,
+    "tonnes_km": 61.2,
+    "voyageurs": 579.0,
+    "voyageurs_km": 35.8
+  },
+  {
+    "annee": "1963",
+    "tonnes": 239.6,
+    "tonnes_km": 63.0,
+    "voyageurs": 599.0,
+    "voyageurs_km": 36.8
+  },
+  {
+    "annee": "1964",
+    "tonnes": 247.7,
+    "tonnes_km": 65.3,
+    "voyageurs": 608.0,
+    "voyageurs_km": 37.8
+  },
+  {
+    "annee": "1965",
+    "tonnes": 226.32,
+    "tonnes_km": 61.82,
+    "voyageurs": 620.0,
+    "voyageurs_km": 38.3
+  },
+  {
+    "annee": "1966",
+    "tonnes": 220.6,
+    "tonnes_km": 61.24,
+    "voyageurs": 628.0,
+    "voyageurs_km": 38.4
+  },
+  {
+    "annee": "1967",
+    "tonnes": 216.49,
+    "tonnes_km": 60.22,
+    "voyageurs": 624.0,
+    "voyageurs_km": 38.4
+  },
+  {
+    "annee": "1968",
+    "tonnes": 216.94,
+    "tonnes_km": 60.23,
+    "voyageurs": 579.0,
+    "voyageurs_km": 35.9
+  },
+  {
+    "annee": "1969",
+    "tonnes": 230.43,
+    "tonnes_km": 64.46,
+    "voyageurs": 607.0,
+    "voyageurs_km": 39.1
+  },
+  {
+    "annee": "1970",
+    "tonnes": 238.0,
+    "tonnes_km": 67.58,
+    "voyageurs": 613.0,
+    "voyageurs_km": 41.0
+  },
+  {
+    "annee": "1971",
+    "tonnes": 227.46,
+    "tonnes_km": 64.24,
+    "voyageurs": 608.0,
+    "voyageurs_km": 41.1
+  },
+  {
+    "annee": "1972",
+    "tonnes": 233.72,
+    "tonnes_km": 65.65,
+    "voyageurs": 626.0,
+    "voyageurs_km": 43.2
+  },
+  {
+    "annee": "1973",
+    "tonnes": 245.44,
+    "tonnes_km": 70.81,
+    "voyageurs": 619.88,
+    "voyageurs_km": 44.7
+  },
+  {
+    "annee": "1974",
+    "tonnes": 252.76,
+    "tonnes_km": 73.98,
+    "voyageurs": 642.3,
+    "voyageurs_km": 47.31
+  },
+  {
+    "annee": "1975",
+    "tonnes": 207.52,
+    "tonnes_km": 61.25,
+    "voyageurs": 657.93,
+    "voyageurs_km": 50.7
+  },
+  {
+    "annee": "1976",
+    "tonnes": 215.23,
+    "tonnes_km": 65.54,
+    "voyageurs": 655.08,
+    "voyageurs_km": 51.08
+  },
+  {
+    "annee": "1977",
+    "tonnes": 202.9,
+    "tonnes_km": 63.31,
+    "voyageurs": 673.46,
+    "voyageurs_km": 51.99
+  },
+  {
+    "annee": "1978",
+    "tonnes": 202.89,
+    "tonnes_km": 64.35,
+    "voyageurs": 684.04,
+    "voyageurs_km": 53.68
+  },
+  {
+    "annee": "1979",
+    "tonnes": 212.95,
+    "tonnes_km": 67.58,
+    "voyageurs": 688.45,
+    "voyageurs_km": 53.73
+  },
+  {
+    "annee": "1980",
+    "tonnes": 209.11,
+    "tonnes_km": 66.37,
+    "voyageurs": 685.82,
+    "voyageurs_km": 54.66
+  },
+  {
+    "annee": "1981",
+    "tonnes": 186.97,
+    "tonnes_km": 61.44,
+    "voyageurs": 697.82,
+    "voyageurs_km": 55.84
+  },
+  {
+    "annee": "1982",
+    "tonnes": 174.55,
+    "tonnes_km": 58.4,
+    "voyageurs": 714.72,
+    "voyageurs_km": 57.04
+  },
+  {
+    "annee": "1983",
+    "tonnes": 166.26,
+    "tonnes_km": 56.65,
+    "voyageurs": 736.1,
+    "voyageurs_km": 58.6
+  },
+  {
+    "annee": "1984",
+    "tonnes": 167.81,
+    "tonnes_km": 57.46,
+    "voyageurs": 755.64,
+    "voyageurs_km": 60.39
+  },
+  {
+    "annee": "1985",
+    "tonnes": 161.66,
+    "tonnes_km": 55.78,
+    "voyageurs": 776.92,
+    "voyageurs_km": 62.07
+  },
+  {
+    "annee": "1986",
+    "tonnes": 145.86,
+    "tonnes_km": 51.69,
+    "voyageurs": 778.75,
+    "voyageurs_km": 59.86
+  },
+  {
+    "annee": "1987",
+    "tonnes": 142.29,
+    "tonnes_km": 51.33,
+    "voyageurs": 782.36,
+    "voyageurs_km": 59.97
+  },
+  {
+    "annee": "1988",
+    "tonnes": 144.88,
+    "tonnes_km": 52.29,
+    "voyageurs": 810.0,
+    "voyageurs_km": 63.29
+  },
+  {
+    "annee": "1989",
+    "tonnes": 146.5,
+    "tonnes_km": 53.27,
+    "voyageurs": 824.9,
+    "voyageurs_km": 64.49
+  },
+  {
+    "annee": "1990",
+    "tonnes": 142.4,
+    "tonnes_km": 51.53,
+    "voyageurs": 842.55,
+    "voyageurs_km": 63.961
+  },
+  {
+    "annee": "1991",
+    "tonnes": 141.18,
+    "tonnes_km": 51.48,
+    "voyageurs": 836.95,
+    "voyageurs_km": 62.301
+  },
+  {
+    "annee": "1992",
+    "tonnes": 137.4,
+    "tonnes_km": 50.37,
+    "voyageurs": 829.38,
+    "voyageurs_km": 62.228
+  },
+  {
+    "annee": "1993",
+    "tonnes": 121.397,
+    "tonnes_km": 45.9,
+    "voyageurs": 823.0,
+    "voyageurs_km": 58.603
+  },
+  {
+    "annee": "1994",
+    "tonnes": 129.298,
+    "tonnes_km": 49.7,
+    "voyageurs": 806.0,
+    "voyageurs_km": 58.928
+  },
+  {
+    "annee": "1995",
+    "tonnes": 125.4538,
+    "tonnes_km": 49.1697,
+    "voyageurs": 740.8,
+    "voyageurs_km": 55.563
+  },
+  {
+    "annee": "1996",
+    "tonnes": 128.476,
+    "tonnes_km": 50.5,
+    "voyageurs": 786.527,
+    "voyageurs_km": 59.773
+  },
+  {
+    "annee": "1997",
+    "tonnes": 136.9289,
+    "tonnes_km": 54.8211,
+    "voyageurs": 807.2,
+    "voyageurs_km": 61.8305
+  },
+  {
+    "annee": "1998",
+    "tonnes": 138.9375,
+    "tonnes_km": 55.0925,
+    "voyageurs": 822.7,
+    "voyageurs_km": 64.457947
+  },
+  {
+    "annee": "1999",
+    "tonnes": 138.637119,
+    "tonnes_km": 54.350377,
+    "voyageurs": 849.9,
+    "voyageurs_km": 66.587496
+  },
+  {
+    "annee": "2000",
+    "tonnes": 141.940943,
+    "tonnes_km": 55.448238,
+    "voyageurs": 846.1866371,
+    "voyageurs_km": 69.86661813
+  },
+  {
+    "annee": "2001",
+    "tonnes": 126.3,
+    "tonnes_km": 50.39629773,
+    "voyageurs": 859.5059808,
+    "voyageurs_km": 71.50415328
+  },
+  {
+    "annee": "2002",
+    "tonnes": 127.64,
+    "tonnes_km": 50.03583444,
+    "voyageurs": 887.1883861,
+    "voyageurs_km": 73.53417396
+  },
+  {
+    "annee": "2003",
+    "tonnes": 120.68,
+    "tonnes_km": 46.83525,
+    "voyageurs": 891.6948182,
+    "voyageurs_km": 72.25991999
+  },
+  {
+    "annee": "2004",
+    "tonnes": 117.4154611,
+    "tonnes_km": 45.12120705,
+    "voyageurs": 931.3578634,
+    "voyageurs_km": 74.36160205
+  },
+  {
+    "annee": "2005",
+    "tonnes": 107.5316579,
+    "tonnes_km": 40.70118045,
+    "voyageurs": 963.502661,
+    "voyageurs_km": 76.88626654
+  },
+  {
+    "annee": "2006",
+    "tonnes": 107.7073353,
+    "tonnes_km": 40.68126985,
+    "voyageurs": 1001.715542,
+    "voyageurs_km": 79.83450552
+  },
+  {
+    "annee": "2007",
+    "tonnes": 105.7017851,
+    "tonnes_km": 40.63219664,
+    "voyageurs": 1032.121228,
+    "voyageurs_km": 81.81353731
+  },
+  {
+    "annee": "2008",
+    "tonnes": 93.98742229,
+    "tonnes_km": 35.93240921,
+    "voyageurs": 1076.191643,
+    "voyageurs_km": 86.64865267
+  },
+  {
+    "annee": "2009",
+    "tonnes": 69.39447883,
+    "tonnes_km": 26.48232079,
+    "voyageurs": 1075.33781,
+    "voyageurs_km": 86.01740102
+  },
+  {
+    "annee": "2010",
+    "tonnes": 64.4302157,
+    "tonnes_km": 22.84014842,
+    "voyageurs": 1075.987508,
+    "voyageurs_km": 85.97349227
+  },
+  {
+    "annee": "2011",
+    "tonnes": 62.61746488,
+    "tonnes_km": 23.24178215,
+    "voyageurs": 1111.470595,
+    "voyageurs_km": 89.00079617
+  },
+  {
+    "annee": "2012",
+    "tonnes": 54.39982318,
+    "tonnes_km": 21.05916528,
+    "voyageurs": 1134.11832,
+    "voyageurs_km": 88.62575929
+  },
+  {
+    "annee": "2013",
+    "tonnes": 50.7341157,
+    "tonnes_km": 19.49841035,
+    "voyageurs": 1148.07232,
+    "voyageurs_km": 87.88289336
+  },
+  {
+    "annee": "2014",
+    "tonnes": 49.96431352,
+    "tonnes_km": 19.26645991,
+    "voyageurs": 1140.689732,
+    "voyageurs_km": 86.97981273
+  },
+  {
+    "annee": "2015",
+    "tonnes": 50.32209027,
+    "tonnes_km": 19.85000144,
+    "voyageurs": 1185.428558,
+    "voyageurs_km": 87.81546777
+  },
+  {
+    "annee": "2016",
+    "tonnes": 44.09322322,
+    "tonnes_km": 18.08809142,
+    "voyageurs": 1218.078971,
+    "voyageurs_km": 87.27960756
+  },
+  {
+    "annee": "2017",
+    "tonnes": 43.19984395,
+    "tonnes_km": 18.72614245,
+    "voyageurs": 1257.976761,
+    "voyageurs_km": 93.2654302
+  },
+  {
+    "annee": "2018",
+    "tonnes": 37.551377,
+    "tonnes_km": 17.38337392,
+    "voyageurs": 1225.536433,
+    "voyageurs_km": 89.70580892
+  },
+  {
+    "annee": "2019",
+    "tonnes": 36.2446293,
+    "tonnes_km": 16.73348843,
+    "voyageurs": 1244.747489,
+    "voyageurs_km": 94.33266475
+  }
+]
