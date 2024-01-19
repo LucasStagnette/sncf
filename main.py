@@ -8,8 +8,6 @@ from taux_wifi import taux_wifi
 from trafic import trafic
 from voywifi import voywifi
 from wifi_gare import wifi
-from objetperdu import perte
-
 # l'ordre recommandé est celui ci, car il y a certaines fonctions qui nécéssitent des résultats d'autres fonctions
 
 frequentation_par_annee(2022)
@@ -20,6 +18,5 @@ taux_wifi()
 wifi()
 voywifi()
 trafic()
-perte()
 
 # tous les résultats seront stockés dans le dossier result
