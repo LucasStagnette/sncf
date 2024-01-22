@@ -1,0 +1,11 @@
+{
+  "nombre_de_gares": 2997,
+  "gares_avec_wifi": {
+    "nombre": 227,
+    "taux": "7.57%"
+  },
+  "gares_sans_wifi": {
+    "nombre": 2770,
+    "taux": "92.43%"
+  }
+}
